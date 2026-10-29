@@ -67,3 +67,17 @@ Technologies Used
 Project Status
 
 Completed beginner-level practice projects. I plan to keep learning and build more Arduino and embedded systems projects as I gain experience.
+## Project 1: LED Push Button
+
+[View Code](pushbutton.ino)
+## Project 2: LED Control Using Push Button
+
+[View Code](reverse.ino)
+![Output](./led%20basic%20and%20reverse.jpeg)
+![Output](./2%20led.jpeg)
+
+[View Code](./2led.ino)
+
+![Output](./2%20button.jpeg)
+
+[View Code](./2button.ino)
