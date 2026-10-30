@@ -73,10 +73,11 @@ Completed beginner-level practice projects. I plan to keep learning and build mo
 ## Project 2: LED Control Using Push Button
 
 [View Code](reverse.ino)
+![LED PUSH BUTTON](./led%20push%20button.jpeg)
 
 
 [View Code](./2led.ino)
-
-
+![2 LED](./2led.jpeg)
 
 [View Code](./2button.ino)
+![2 Push Button](./2pushbutton.jpeg)
