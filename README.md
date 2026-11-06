@@ -1,4 +1,4 @@
-# arduino-led-and-push-button-projects
+# Arduino-led-and-push-button-projects
 Arduino LED and Push Button Projects
 
 Today, I worked on a few beginner-level Arduino projects to understand how LEDs and push buttons work together.
